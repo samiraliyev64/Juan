@@ -251,3 +251,5 @@ C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Juan.csproj.CopyCo
 C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Juan.dll
 C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Juan.pdb
 C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Juan.genruntimeconfig.cache
+C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\HP\Desktop\asp.net\Juan\Juan\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs

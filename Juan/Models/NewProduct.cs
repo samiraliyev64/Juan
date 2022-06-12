@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace Juan.Models
 {
-    public class Category
+    public class NewProduct
     {
         public int Id { get; set; }
+        public string Url { get; set; }
         public string Name { get; set; }
-        //public int ProductId { get; set; }
-        public ICollection<CategoryProduct> CategoryProducts { get; set; }
+        public int Price { get; set; }
     }
 }
