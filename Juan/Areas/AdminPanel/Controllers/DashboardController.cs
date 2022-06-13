@@ -4,9 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Juan.Controllers
+namespace Juan.Areas.AdminPanel.Controllers
 {
-    public class CategoryController : Controller
+    [Area("AdminPanel")]
+    public class DashboardController : Controller
     {
         public IActionResult Index()
         {
